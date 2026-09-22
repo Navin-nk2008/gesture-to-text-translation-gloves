@@ -105,13 +105,7 @@ Arduino UNO
 ```
 
 ---
-# 🔌 Circuit Diagram
 
-The following circuit diagram shows the hardware connections between the **Arduino UNO, Flex Sensors, MPU6050, HC-05 Bluetooth module, resistors, and other components** used in the Gesture-to-Text Translation Glove.
-
-<p align="center">
-  <img src="circuit-diagram.png" alt="Gesture-to-Text Glove Circuit Diagram" width="800">
-</p>
 # 🛠️ Hardware Components
 
 | Component             | Purpose                                    |
