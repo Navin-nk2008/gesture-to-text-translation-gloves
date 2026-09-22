@@ -66,7 +66,7 @@ Arduino UNO
                        │
                        ▼
               ┌──────────────────┐
-              │   🧤 GLOVE       │
+              │    🧤GLOVE       |
               │                  │
               │  Flex Sensors    │
               │       +          │
@@ -77,7 +77,8 @@ Arduino UNO
               ┌──────────────────┐
               │   Arduino UNO    │
               │                  │
-              │ Sensor Acquisition│
+              │     Sensor       |
+              |   Acquisition    │
               └────────┬─────────┘
                        │
                        ▼
